@@ -37,7 +37,7 @@ export default function MyApp({ Component, pageProps }: AppProps): any {
       </Script>
 
       <Head>
-        <title>Jarrod Watts</title>
+        <title>React Next & Optimize</title>
         <meta name="viewport" content="initial-scale=1, width=device-width" />
       </Head>
       <ThemeProvider theme={theme}>

@@ -36,7 +36,7 @@ const Header = (): any => {
       spacing={1}
     >
       <Grid item>
-        <Typography variant="h6">👋 Jarrod Watts</Typography>
+        <Typography variant="h6">👋 React Next & Optimize</Typography>
       </Grid>
       {/* <Grid item>
         <Grid container spacing={3} direction="row" alignItems="center" justify="center">
